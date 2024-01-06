@@ -1,7 +1,6 @@
 # Hi there, I'm Yiğit Özcan
 <img src="https://komarev.com/ghpvc/?username=yigitozcn&label=Profile+Viewers&style=plastic&color=blue" alt="yigitozcn" />&nbsp;
 <a href="https://instagram.com/yiit.ozcn"><img src="https://img.shields.io/static/v1?label=Follow&message=yiit.ozcn&color=red&style=plastic&logo=Instagram"/>&nbsp;
-<a href="https://www.yigitozcan.com"><img src="https://img.shields.io/static/v1?label=Click&message=Contact%20Me&color=blueviolet&style=plastic&"/>&nbsp;
 <a href="https://github.com/LegendGru/"><img src="https://img.shields.io/static/v1?label=My+Other&message=Github%20Account&color=bluet&style=plastic&"/>&nbsp;
 
 ## Languages and Tools:
